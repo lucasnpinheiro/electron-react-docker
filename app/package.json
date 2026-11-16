@@ -17,7 +17,7 @@
   },
   "main": "src/main.js",
   "devDependencies": {
-    "electron": "^1.4.14",
+    "electron": "^45.3.3",
     "@types/jest": "^21.1.2",
     "@types/node": "^8.0.33",
     "@types/react": "^16.0.10",
